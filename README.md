@@ -13,3 +13,8 @@
        --Using All the Words
        --Using Naive Bayes
 - Recommender System
+- To be able to run this, you must have Jupyter notebook installed on your machine.
+- It can be run on any platform: Windows, Linux, Mac-OS
+- Installations needed:
+Anaconda prompt, Jupyter notebook, numpy, pandas, sklearn, NLTK
+- Hardware requirement: Any operating system that supports Python. Less than 2 GB RAM.
